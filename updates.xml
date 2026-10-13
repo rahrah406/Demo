@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='ehdoodkfnlnjfmnologlcohkodbgbpjj'>
-    <updatecheck codebase='https://github.com/rahrah406/Demo/blob/main/TDX%20Reporting%20Tool.crx' />
+    <updatecheck codebase='https://raw.githubusercontent.com/rahrah406/Demo/main/TDX%20Reporting%20Tool.crx' version='0.10.2' />
   </app>
 </gupdate>
